@@ -1,17 +1,17 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *Tumblr Feed*
 
-Submitted by: **Your Name Here**
+Submitted by: **Avanti Manjunath**
 
-**Name of your app** is an app that ... [TODO] 
+**Tumblr Feed** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App has a configured table view and table view call
-- [ ] App populates the table view with data fetched from an API
+- [x] App has a configured table view and table view call
+- [x] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
@@ -25,9 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='https://github.com/AvantiiM/ios101-project5-tumblr-starter/blob/main/TumblrFeed.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -35,7 +33,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Avanti Manjunath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
